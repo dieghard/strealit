@@ -1,11 +1,11 @@
 import streamlit as st
 from  PIL import Image
 
-st.set_page_config(page_title="🐍nake🐍osftDev", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="Bit🐍nake🐍osft", page_icon="🤖", layout="wide")
 with st.container():
-    st.header("Hola! ✋, somos 🐍nake🐍osftDev")
+    st.header("Hola! ✋, somos Bit🐍nake🐍osft")
     st.title("Creamos las soluciones necesarias para acelerar tu negocio")
-    st.write("En 🐍nake🐍osftDev, somos apasionados de la tecnologia, creemos que con ella podemos ayudar a las empresas y negocios a mejorar sus procesos  de crecimiento y toma de desiociones. ")
+    st.write("En Bit🐍nake🐍osft, somos apasionados de la tecnologia, creemos que con ella podemos ayudar a las empresas y negocios a mejorar sus procesos  de crecimiento y toma de desiociones. ")
     st.write("[saber mas sobre nosotros->](https://www.nakeosftdev.com/)")
 
     #sobre nosotros
